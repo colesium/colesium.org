@@ -1,0 +1,141 @@
+html {
+}
+
+header {
+	max-width: 350px;
+	border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.31);
+    color: white;
+    padding: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: rgb(255, 197, 61);
+}
+
+body {
+	    background-color: #7c8383; /* using hexadecimal */
+	margin-top: auto; margin-bottom: auto;
+	font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+main {
+	max-width: 600px;
+    padding: 30px;
+	background-color: rgba(0, 0, 0, 0.31);
+	color: white;
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+    border-color: rgb(255, 197, 61);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#links {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#vote {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#about {
+	font-size: 30px;
+}
+
+#gallery-controls {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#gallery-controls ul {
+	list-style-type: none;
+	padding-left: 20px;
+}
+
+#clients {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#clients div {
+	width: 250px;
+}
+
+#server__info {
+	color: rgb(133, 226, 255);
+}
+
+#server__status {
+	color: rgba(0, 0, 0, 0);
+	font-size: 0px;
+}
+
+#clipboard {
+	padding-left: 8px;
+	
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+.icon {
+    font-size: 60px;
+}
+
+header img {
+	max-width: 128px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.highlighted {
+    color: rgb(133, 226, 255);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(133, 226, 255);
+}
+
+h2 {
+	color: rgb(133, 226, 255);
+}
+
+#donate div{
+	width: 250px;
+}
+
+
+h1, h2
